@@ -6,5 +6,5 @@ In this project, I will analyze the spread of the new corona virus (nCov). I wil
 - The DXY.cn's google sheet which contains information of about 1000 patients. 
 https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit#gid=1187587451
 
-
+Project goal: to analyze open data on the spread of the COVID-19 around the world, to collect information about patients, risk groups, the speed of spread of the coronavirus and to determine the death rate by patients age.
 
